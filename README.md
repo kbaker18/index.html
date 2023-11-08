@@ -1,4 +1,9 @@
-<h1>*HEADLINE*</h1>
-  <p>This is a paragraph.</p>
-
-<h2>This is a website! :) </h2>
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>MYP Project</h1>
+  </head>
+  <body>
+    <h2>HTML Website</h2>
+  </body>
+</html>
