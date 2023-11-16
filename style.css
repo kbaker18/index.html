@@ -9,13 +9,21 @@ h1 {
   font-size: 50px;
   padding-top: 100px;
   padding-bottom: 100px;
+  text-align: center;
 }
 
 body {
   font-size: 15px;
   font-color: gray;
   background: #006BAB;
-  background: linear-gradient(-45deg, #B6DAEF, #006BAB)
+  background: linear-gradient(-45deg, #B6DAEF, #006BAB);
   margin: 0;
   padding: 0;
 }
+
+.image {
+  background-image: url('7349.html');
+  image-position: center;
+  height: 300px;
+}
+
