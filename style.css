@@ -15,9 +15,10 @@ body {
   font-size: 15px;
   font-color: gray;
   font-family: 'Playfair Display'
+  background: #006BAB;
   background: linear-gradient(#B6DAEF, #006BAB);
   margin: 0;
-  padding: 0;
+  padding: 100px;
 }
 
 .image {
