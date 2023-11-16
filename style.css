@@ -14,7 +14,7 @@ h1 {
 body {
   font-size: 15px;
   font-color: gray;
-  font: 'Playfair Display'
+  font-family: 'Playfair Display'
   background: #006BAB;
   background: linear-gradient(#B6DAEF, #006BAB);
   margin: 0;
