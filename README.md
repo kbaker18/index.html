@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><b>MYP Project</b></title>
+    <h1><b>MYP Project</b></h1>
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
