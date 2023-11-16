@@ -1,18 +1,21 @@
 html {
   height: 100%;
   width: 100%;
+  font-family: 'Playfair Display', serif;
 }
 
 h1 {
-  color: red;
+  color: black;
   font-size: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 body {
-  color: gray;
-  font-size: 15px:
-}
-
-.background-color {
-  color: red;
+  font-size: 15px;
+  font-color: gray;
+  background: #006BAB;
+  background: linear-gradient(-45deg, #B6DAEF, #006BAB)
+  margin: 0;
+  padding: 0;
 }
