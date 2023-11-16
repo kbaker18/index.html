@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <h1><b>MYP Project</b></h1>
