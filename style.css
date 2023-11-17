@@ -25,5 +25,10 @@ body {
   image-position: center;
 }
 
-.caption
+.caption {
+  font-size: 5px;
+  color: black;
+  background-color: white;
+  opacity: 0.5;
+}
 
