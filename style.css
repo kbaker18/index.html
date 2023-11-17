@@ -16,8 +16,7 @@ body {
   font-family: 'Playfair Display', serif;
   background: #006BAB;
   background: linear-gradient(#B6DAEF, #006BAB);
-  margin: 0;
-  padding: 100px;
+  margin: 0px;
 }
 
 .image {
